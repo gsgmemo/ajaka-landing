@@ -99,7 +99,7 @@ export default function ValuesSection() {
           >
             <div className="text-3xl mb-3">✨</div>
             <div className="gradient-text font-heading font-bold text-base leading-snug">
-              "Todos somos uno"
+              &ldquo;Todos somos uno&rdquo;
             </div>
           </motion.div>
         </div>
