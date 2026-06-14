@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "inicio": "Home",
+    "nosotros": "About Us",
+    "servicios": "Services",
+    "proyectos": "Projects",
+    "valores": "Values",
+    "contacto": "Contact",
+    "cotizar": "Get a Quote"
+  },
+  "hero": {
+    "badge": "Certified company since 2015",
+    "title1": "We Build with",
+    "title2": "Excellence",
+    "title3": "and Trust",
+    "subtitle": "Specialists in waterproofing, engineering, construction and project supervision. We operate throughout Mexico with guaranteed quality.",
+    "cta_primary": "Get a Free Quote",
+    "cta_secondary": "View Projects",
+    "stat1_label": "Years of experience",
+    "stat2_label": "Completed projects",
+    "stat3_label": "m² waterproofed",
+    "stat4_label": "Satisfied clients"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "A young company with elite experience",
+    "description": "We are a company focused on Waterproofing, Engineering, Construction and Supervision, balancing quality, scope, time and cost requirements, adapting specifications and plans to our clients' needs and interests.",
+    "vision_title": "Our Vision",
+    "vision_text": "To be recognized as the best Waterproofing, Engineering, Construction and Supervision company in the projects where we participate, based on our human factor, quality criteria, safety and environmental respect.",
+    "lema": "\"Together we are one\"",
+    "founded": "Founded in 2015",
+    "location": "Ixtapaluca, State of Mexico",
+    "national": "National Coverage",
+    "feature1": "Certified professionals",
+    "feature2": "Coverage throughout Mexico",
+    "feature3": "Elite academic teams",
+    "feature4": "Certified quality and warranty"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive construction solutions",
+    "subtitle": "We offer a complete range of services for residential, commercial and institutional projects throughout Mexico.",
+    "featured": "Main Specialty",
+    "items": {
+      "impermeabilizacion": {
+        "name": "Waterproofing",
+        "desc": "Total protection for rooftops, slabs and facades with next-generation materials. Our main specialty."
+      },
+      "construccion": {
+        "name": "General Construction",
+        "desc": "Construction of residential, commercial and institutional buildings with high quality standards."
+      },
+      "albanileria": {
+        "name": "General Masonry",
+        "desc": "Masonry work, plastering, framing and finishes with specialized labor."
+      },
+      "supervision": {
+        "name": "Project Supervision & Management",
+        "desc": "Technical control and monitoring of projects to ensure quality, timeline and budget."
+      },
+      "instalaciones_hidraulicas": {
+        "name": "Hydraulic & Sanitary Systems",
+        "desc": "Complete systems for potable water, drainage, fire suppression, LP gas and compressed air."
+      },
+      "instalaciones_electricas": {
+        "name": "Electrical Installations",
+        "desc": "Electrical maintenance, panel balancing, lamp replacement, photocells and wiring."
+      },
+      "instalaciones_especiales": {
+        "name": "Special Installations",
+        "desc": "Telephony, voice and data, CCTV, smoke detectors and security systems."
+      },
+      "aire_acondicionado": {
+        "name": "Air Conditioning",
+        "desc": "Installation and maintenance of HVAC systems for any type of building."
+      },
+      "carpinteria": {
+        "name": "Carpentry",
+        "desc": "Manufacturing and installation of furniture, closets, kitchens and decorative wood elements."
+      },
+      "aluminio_herreria": {
+        "name": "Aluminum & Ironwork",
+        "desc": "Windows, doors, aluminum framing and structural and decorative ironwork."
+      },
+      "acabados": {
+        "name": "Finishes",
+        "desc": "Painting, coatings, flooring, tiles and all types of quality architectural finishes."
+      },
+      "desazolve": {
+        "name": "Drain Cleaning",
+        "desc": "Cleaning and maintenance of drains and storm drains to prevent flooding and damage."
+      },
+      "urbanizacion": {
+        "name": "Urbanization",
+        "desc": "Construction of curbs, sidewalks, street lighting and urban infrastructure works."
+      },
+      "generadores": {
+        "name": "Estimates & Budgets",
+        "desc": "Preparation of work quantities, project estimates and detailed construction budgets."
+      }
+    }
+  },
+  "projects": {
+    "badge": "Portfolio",
+    "title": "Projects that speak for themselves",
+    "subtitle": "Over 10 years of experience in institutional, commercial and infrastructure projects throughout Mexico.",
+    "filter_all": "All",
+    "filter_impermeabilizacion": "Waterproofing",
+    "filter_construccion": "Construction",
+    "filter_supervision": "Supervision",
+    "filter_mantenimiento": "Maintenance",
+    "view_more": "View details"
+  },
+  "values": {
+    "badge": "Our Values",
+    "title": "The principles that set us apart",
+    "subtitle": "Under the motto 'Together we are one', our team shares the values that guarantee excellence in every project.",
+    "team_title": "Our Team",
+    "team_subtitle": "Experienced professionals with academic excellence in architecture, engineering and construction.",
+    "values_list": {
+      "cooperacion": "Cooperation",
+      "innovacion": "Innovation",
+      "seguridad": "Safety",
+      "amabilidad": "Kindness",
+      "confianza": "Trust",
+      "atencion": "Attention",
+      "motivacion": "Motivation",
+      "compromiso": "Commitment",
+      "competitividad": "Competitiveness",
+      "etica": "Professional Ethics",
+      "apertura": "Openness to Change"
+    }
+  },
+  "clients": {
+    "badge": "Clients & Partners",
+    "title": "Trusted by leading institutions",
+    "subtitle": "We have worked with top-tier government, educational and private organizations nationwide."
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Do you have a project in mind?",
+    "subtitle": "Contact us today and get a free personalized quote. We work throughout Mexico.",
+    "form_name": "Full name *",
+    "form_company": "Company / Organization",
+    "form_email": "Email address *",
+    "form_phone": "Phone number",
+    "form_service": "Service of interest",
+    "form_message": "Describe your project *",
+    "form_submit": "Send Request",
+    "form_sending": "Sending...",
+    "form_success": "Message sent! We will contact you within 24 hours.",
+    "form_error": "There was an error sending your message. Please try again.",
+    "info_title": "Contact Information",
+    "info_address": "Miguel Hidalgo Mz. 27 Lt 4, Col. Alfredo del Mazo CP. 56577, Ixtapaluca, State of Mexico",
+    "info_rfc": "RFC: CAS2002131G4",
+    "info_coverage": "Coverage: Throughout Mexico",
+    "placeholder_name": "Your Full Name",
+    "placeholder_company": "Company or Institution",
+    "placeholder_email": "email@company.com",
+    "placeholder_phone": "+52 55 0000 0000",
+    "placeholder_message": "Describe the type of project, approximate dimensions, location and any relevant details..."
+  },
+  "footer": {
+    "description": "Specialists in waterproofing, engineering, construction and project supervision since 2015. Coverage throughout Mexico.",
+    "links_title": "Navigation",
+    "services_title": "Services",
+    "legal_title": "Legal Information",
+    "rfc": "RFC: CAS2002131G4",
+    "acta": "Certificate of Incorporation No. 200,525",
+    "folio": "Business Folio: N-2020011622",
+    "cedula": "Professional License: 14201461",
+    "rights": "All rights reserved.",
+    "made": "Made in Mexico 🇲🇽"
+  }
+}

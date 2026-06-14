@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "inicio": "Inicio",
+    "nosotros": "Nosotros",
+    "servicios": "Servicios",
+    "proyectos": "Proyectos",
+    "valores": "Valores",
+    "contacto": "Contacto",
+    "cotizar": "Solicitar Cotización"
+  },
+  "hero": {
+    "badge": "Empresa certificada desde 2015",
+    "title1": "Construimos con",
+    "title2": "Excelencia",
+    "title3": "y Confianza",
+    "subtitle": "Especialistas en impermeabilización, ingeniería, construcción y supervisión de obra. Trabajamos en toda la República Mexicana con calidad garantizada.",
+    "cta_primary": "Solicitar Cotización",
+    "cta_secondary": "Ver Proyectos",
+    "stat1_label": "Años de experiencia",
+    "stat2_label": "Proyectos completados",
+    "stat3_label": "m² impermeabilizados",
+    "stat4_label": "Clientes satisfechos"
+  },
+  "about": {
+    "badge": "Quiénes Somos",
+    "title": "Una empresa joven con experiencia élite",
+    "description": "Somos una empresa enfocada en el área de Impermeabilización, Ingeniería, Construcción y Supervisión, que equilibra los requerimientos de calidad, alcance, tiempo y costos; adaptando las especificaciones y los planes a las diversas inquietudes e intereses de nuestros clientes.",
+    "vision_title": "Nuestra Visión",
+    "vision_text": "Ser reconocidos como la mejor empresa de Impermeabilización, Ingeniería, Construcción y Supervisión, en los escenarios y proyectos donde participemos, en base a nuestro factor humano, criterios de calidad, seguridad y respeto al medio ambiente.",
+    "lema": "\"Todos somos uno\"",
+    "founded": "Fundada en 2015",
+    "location": "Ixtapaluca, Estado de México",
+    "national": "Cobertura Nacional",
+    "feature1": "Profesionales certificados",
+    "feature2": "Cobertura en toda la República",
+    "feature3": "Equipos de élite académica",
+    "feature4": "Calidad y garantía certificada"
+  },
+  "services": {
+    "badge": "Nuestros Servicios",
+    "title": "Soluciones integrales de construcción",
+    "subtitle": "Ofrecemos una gama completa de servicios para proyectos residenciales, comerciales e institucionales en toda la República Mexicana.",
+    "featured": "Especialidad Principal",
+    "items": {
+      "impermeabilizacion": {
+        "name": "Impermeabilización",
+        "desc": "Protección total para azoteas, losas y fachadas con materiales de última generación. Nuestra especialidad principal."
+      },
+      "construccion": {
+        "name": "Construcción en General",
+        "desc": "Construcción de inmuebles residenciales, comerciales e institucionales con altos estándares de calidad."
+      },
+      "albanileria": {
+        "name": "Albañilería en General",
+        "desc": "Trabajos de mampostería, aplanados, cancelería y acabados con mano de obra especializada."
+      },
+      "supervision": {
+        "name": "Supervisión y Administración de Obra",
+        "desc": "Control y seguimiento técnico de proyectos para asegurar calidad, tiempo y presupuesto."
+      },
+      "instalaciones_hidraulicas": {
+        "name": "Instalaciones Hidráulicas y Sanitarias",
+        "desc": "Sistemas completos de agua potable, drenaje, contraincendios, gas LP y aire comprimido."
+      },
+      "instalaciones_electricas": {
+        "name": "Instalaciones Eléctricas",
+        "desc": "Mantenimiento eléctrico, balance de tableros, cambio de lámparas, fotoceldas y cableado."
+      },
+      "instalaciones_especiales": {
+        "name": "Instalaciones Especiales",
+        "desc": "Telefonía, voz y datos, circuito cerrado de TV, detectores de humo y sistemas de seguridad."
+      },
+      "aire_acondicionado": {
+        "name": "Aire Acondicionado",
+        "desc": "Instalación y mantenimiento de sistemas de climatización para cualquier tipo de inmueble."
+      },
+      "carpinteria": {
+        "name": "Carpintería",
+        "desc": "Fabricación e instalación de muebles, closets, cocinas integrales y elementos decorativos en madera."
+      },
+      "aluminio_herreria": {
+        "name": "Aluminio y Herrería",
+        "desc": "Ventanas, puertas, cancelería de aluminio y trabajos de herrería estructural y decorativa."
+      },
+      "acabados": {
+        "name": "Acabados",
+        "desc": "Pintura, recubrimientos, pisos, azulejos y todo tipo de acabados arquitectónicos de calidad."
+      },
+      "desazolve": {
+        "name": "Desazolve de Drenajes",
+        "desc": "Limpieza y mantenimiento de drenajes y bajadas pluviales para prevenir inundaciones y daños."
+      },
+      "urbanizacion": {
+        "name": "Urbanización",
+        "desc": "Construcción de guarniciones, banquetas, alumbrado público y obras de infraestructura urbana."
+      },
+      "generadores": {
+        "name": "Generadores y Estimaciones",
+        "desc": "Elaboración de números generadores, estimaciones de obra y presupuestos detallados de proyectos."
+      }
+    }
+  },
+  "projects": {
+    "badge": "Portafolio",
+    "title": "Proyectos que hablan por nosotros",
+    "subtitle": "Más de 10 años de experiencia en proyectos institucionales, comerciales y de infraestructura en toda la República.",
+    "filter_all": "Todos",
+    "filter_impermeabilizacion": "Impermeabilización",
+    "filter_construccion": "Construcción",
+    "filter_supervision": "Supervisión",
+    "filter_mantenimiento": "Mantenimiento",
+    "view_more": "Ver más detalles"
+  },
+  "values": {
+    "badge": "Nuestros Valores",
+    "title": "Los principios que nos distinguen",
+    "subtitle": "Bajo el lema 'Todos somos uno', nuestro equipo comparte los valores que garantizan la excelencia en cada proyecto.",
+    "team_title": "Nuestro Equipo",
+    "team_subtitle": "Profesionales de experiencia y élite académica en arquitectura, ingeniería y construcción.",
+    "values_list": {
+      "cooperacion": "Cooperación",
+      "innovacion": "Innovación",
+      "seguridad": "Seguridad",
+      "amabilidad": "Amabilidad",
+      "confianza": "Confianza",
+      "atencion": "Atención",
+      "motivacion": "Motivación",
+      "compromiso": "Compromiso",
+      "competitividad": "Competitividad",
+      "etica": "Ética Profesional",
+      "apertura": "Apertura al Cambio"
+    }
+  },
+  "clients": {
+    "badge": "Clientes y Aliados",
+    "title": "Confianza de instituciones líderes",
+    "subtitle": "Hemos trabajado con instituciones gubernamentales, educativas y empresas privadas de primer nivel a nivel nacional."
+  },
+  "contact": {
+    "badge": "Contacto",
+    "title": "¿Tienes un proyecto en mente?",
+    "subtitle": "Contáctanos hoy y recibe una cotización personalizada sin costo. Trabajamos en toda la República Mexicana.",
+    "form_name": "Nombre completo *",
+    "form_company": "Empresa / Organización",
+    "form_email": "Correo electrónico *",
+    "form_phone": "Teléfono",
+    "form_service": "Servicio de interés",
+    "form_message": "Describe tu proyecto *",
+    "form_submit": "Enviar Solicitud",
+    "form_sending": "Enviando...",
+    "form_success": "¡Mensaje enviado! Nos comunicaremos contigo en menos de 24 horas.",
+    "form_error": "Hubo un error al enviar. Por favor intenta de nuevo.",
+    "info_title": "Información de Contacto",
+    "info_address": "Miguel Hidalgo Mz. 27 Lt 4, Col. Alfredo del Mazo CP. 56577, Ixtapaluca, Edo. Méx.",
+    "info_rfc": "RFC: CAS2002131G4",
+    "info_coverage": "Cobertura: República Mexicana",
+    "placeholder_name": "Arq. Nombre Apellido",
+    "placeholder_company": "Empresa o Institución",
+    "placeholder_email": "correo@empresa.com",
+    "placeholder_phone": "+52 55 0000 0000",
+    "placeholder_message": "Describe el tipo de proyecto, dimensiones aproximadas, ubicación y cualquier detalle relevante..."
+  },
+  "footer": {
+    "description": "Especialistas en impermeabilización, ingeniería, construcción y supervisión de obra desde 2015. Cobertura en toda la República Mexicana.",
+    "links_title": "Navegación",
+    "services_title": "Servicios",
+    "legal_title": "Información Legal",
+    "rfc": "RFC: CAS2002131G4",
+    "acta": "Acta Constitutiva No. 200,525",
+    "folio": "Folio Mercantil: N-2020011622",
+    "cedula": "Cédula Profesional: 14201461",
+    "rights": "Todos los derechos reservados.",
+    "made": "Hecho en México 🇲🇽"
+  }
+}
